@@ -1,2 +1,5 @@
-# JadeTsaoSpecs
-JadeTsao Personal Specs
+# Gene's Specs
+Gene Personal Specs
+
+
+
