@@ -1,5 +1,5 @@
-# Gene's Specs
-Gene Personal Specs
+# cocoapods specs
+
 
 
 
